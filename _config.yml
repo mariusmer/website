@@ -1,0 +1,37 @@
+#Settings
+
+title: 안녕하세요, 담배 드릴까요?
+email: mariusmereckis@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  for cool people who like to smoke cigarettes (because they're cool)
+  hello i am not korean but i want to go gamble on the island of jeju
+  high stakes cash poker lets get it
+baseurl: "/website"
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: realDonaldTrump
+github_username:  mariusmer
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
